@@ -11,17 +11,10 @@ export default function Consequencias() {
         alt="Imagem da NASA do dia"
       />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odio iure
-        sapiente, eaque sed eius suscipit quod sit molestiae tenetur quis
-        eligendi voluptatum dolore, unde quae minus perferendis doloribus odit,
-        nobis in ea illo amet incidunt. Natus assumenda debitis libero
-        voluptatum! Unde dolore cum, consectetur reiciendis quibusdam culpa,
-        officia tempore quasi, magnam voluptatem facere. Laboriosam, quas
-        magnam? Dignissimos distinctio, tempora dicta ad porro dolores facilis
-        quos ipsam dolore excepturi, minus error tempore perferendis obcaecati
-        nemo deleniti labore ipsa ex expedita nisi ipsum at odit fuga? Et
-        distinctio, fuga, esse totam nam earum debitis veniam impedit, odio
-        obcaecati inventore ipsa quas!
+De acordo com Velikovsky, esses eventos cósmicos resultaram em várias mudanças geológicas, como o deslocamento de massas de água e o levantamento de montanhas. Ele também acredita que influenciaram o clima e até mesmo o comportamento das populações antigas, que teriam vivenciado dias de escuridão, terremotos devastadores e inundações catastróficas.
+
+Uma das afirmações mais ousadas de Velikovsky é a ideia de que a história humana não é linear, mas pontuada por eventos de destruição em grande escala causados por forças extraterrestres. Ele sugere que muitas dessas histórias de destruição foram mitologizadas e incorporadas em textos religiosos e folclóricos ao redor do mundo.
+
       </p>
     </>
   );
