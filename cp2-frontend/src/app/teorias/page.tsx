@@ -11,17 +11,17 @@ export default function Teorias() {
         alt="Imagem da NASA do dia"
       />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odio iure
-        sapiente, eaque sed eius suscipit quod sit molestiae tenetur quis
-        eligendi voluptatum dolore, unde quae minus perferendis doloribus odit,
-        nobis in ea illo amet incidunt. Natus assumenda debitis libero
-        voluptatum! Unde dolore cum, consectetur reiciendis quibusdam culpa,
-        officia tempore quasi, magnam voluptatem facere. Laboriosam, quas
-        magnam? Dignissimos distinctio, tempora dicta ad porro dolores facilis
-        quos ipsam dolore excepturi, minus error tempore perferendis obcaecati
-        nemo deleniti labore ipsa ex expedita nisi ipsum at odit fuga? Et
-        distinctio, fuga, esse totam nam earum debitis veniam impedit, odio
-        obcaecati inventore ipsa quas!
+        Velikovsky sugere que Vênus foi ejetado como um cometa de Júpiter e que,
+        ao passar perto da Terra, causou uma série de catástrofes. Ele conecta
+        esses eventos a relatos mitológicos e históricos de várias culturas,
+        propondo que antigas civilizações testemunharam e registraram essas
+        perturbações. Por exemplo, ele relaciona os eventos descritos na Bíblia,
+        como as pragas do Egito e a travessia do Mar Vermelho, com os efeitos da
+        aproximação de Vênus à Terra. A narrativa continua ao propor que, após
+        sua interação com a Terra, Vênus se estabilizou em sua atual órbita
+        planetária. Em outro ponto da história, Velikovsky afirma que Marte
+        também desempenhou um papel importante em causar distúrbios planetários,
+        contribuindo para novas catástrofes.
       </p>
     </>
   );
