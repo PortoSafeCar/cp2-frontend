@@ -11,17 +11,9 @@ export default function Recepcao() {
         alt="Imagem da NASA do dia"
       />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odio iure
-        sapiente, eaque sed eius suscipit quod sit molestiae tenetur quis
-        eligendi voluptatum dolore, unde quae minus perferendis doloribus odit,
-        nobis in ea illo amet incidunt. Natus assumenda debitis libero
-        voluptatum! Unde dolore cum, consectetur reiciendis quibusdam culpa,
-        officia tempore quasi, magnam voluptatem facere. Laboriosam, quas
-        magnam? Dignissimos distinctio, tempora dicta ad porro dolores facilis
-        quos ipsam dolore excepturi, minus error tempore perferendis obcaecati
-        nemo deleniti labore ipsa ex expedita nisi ipsum at odit fuga? Et
-        distinctio, fuga, esse totam nam earum debitis veniam impedit, odio
-        obcaecati inventore ipsa quas!
+      O lançamento de Worlds in Collision gerou intensa controvérsia, especialmente dentro da comunidade científica. Astrônomos e físicos criticaram ferozmente as ideias de Velikovsky, considerando-as pseudociência por falta de evidências empíricas sólidas. Mesmo assim, o livro foi um sucesso de vendas, capturando a imaginação do público com sua mistura intrigante de ciência, mitologia e história.
+
+Apesar das críticas, Worlds in Collision teve um impacto duradouro, inspirando debates sobre a natureza dos cataclismos antigos e influenciando movimentos alternativos na ciência e na arqueologia. As ideias de Velikovsky também estimularam a criação de outras teorias catastrofistas e continuam a ser estudadas e debatidas em círculos acadêmicos e amadores.
       </p>
     </>
   );
