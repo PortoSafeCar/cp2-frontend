@@ -34,8 +34,8 @@ export default function Teorias() {
       </p>
       <Image
         src={calculo}
-        width={100}
-        height={100}
+        width={200}
+        height={200}
         alt="Imagem de calculo usado na teoria"
       />
     </>
