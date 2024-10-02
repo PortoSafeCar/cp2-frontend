@@ -1,4 +1,5 @@
 import Image from "next/image";
+import calculo from "../../assets/calculo.jpg";
 
 export default function Teorias() {
   return (
@@ -23,6 +24,20 @@ export default function Teorias() {
         também desempenhou um papel importante em causar distúrbios planetários,
         contribuindo para novas catástrofes.
       </p>
+      <p>
+        Se você estiver buscando cálculos de mecânica orbital que teriam sido
+        necessários para validar teorias como a de Velikovsky, esses envolveriam
+        o uso de fórmulas da gravitação universal, que ele não aplicou
+        diretamente em suas obras. Por exemplo, para modelar a interação entre
+        dois corpos celestes (como Vênus e a Terra), ele teria precisado
+        utilizar a Lei da Gravitação Universal de Newton:
+      </p>
+      <Image
+        src={calculo}
+        width={100}
+        height={100}
+        alt="Imagem de calculo usado na teoria"
+      />
     </>
   );
 }
