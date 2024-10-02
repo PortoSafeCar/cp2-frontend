@@ -1,7 +1,15 @@
+import Image from "next/image";
+
 export default function Consequencias() {
   return (
     <main>
       <h2>Principais Consequências e Impactos</h2>
+      <Image
+        src="http://localhost:3000/api/apod/2024-09-27"
+        width={100}
+        height={100}
+        alt="Imagem da NASA do dia"
+      />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odio iure
         sapiente, eaque sed eius suscipit quod sit molestiae tenetur quis
