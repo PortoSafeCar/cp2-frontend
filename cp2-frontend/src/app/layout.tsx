@@ -15,9 +15,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
-      <body>
+      <body className="bg-slate-200">
         <Cabecalho />
-        {children}
+        <main className="bg-white px-32 py-8 flex justify-start items-center flex-col gap-8">{children}</main>
         <Rodape />
       </body>
     </html>

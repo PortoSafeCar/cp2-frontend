@@ -2,12 +2,12 @@ import Image from "next/image";
 
 export default function Teorias() {
   return (
-    <main>
-      <h2>Teorias Principais</h2>
+    <>
+      <h2 className="text-2xl font-bold">Teorias Principais</h2>
       <Image
         src="http://localhost:3000/api/apod/2024-09-29"
-        width={100}
-        height={100}
+        width={400}
+        height={400}
         alt="Imagem da NASA do dia"
       />
       <p>
@@ -23,6 +23,6 @@ export default function Teorias() {
         distinctio, fuga, esse totam nam earum debitis veniam impedit, odio
         obcaecati inventore ipsa quas!
       </p>
-    </main>
+    </>
   );
 }

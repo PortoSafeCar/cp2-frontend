@@ -3,18 +3,35 @@ import Link from "next/link";
 export default function Menu() {
   return (
     <nav>
-      <ul>
+      <ul className="flex flex-row items-center justify-center gap-8">
         <li>
-          <Link href="/">Home</Link>
+          <Link
+            className="text-blue-500 visited:text-blue-700"
+            href="/"
+          >
+            Home
+          </Link>
         </li>
         <li>
-          <Link href="/teorias">Teorias Principais</Link>
+          <Link className="text-blue-500 visited:text-blue-700" href="/teorias">
+            Teorias Principais
+          </Link>
         </li>
         <li>
-          <Link href="/consequencias">Principais Consequências e Impactos</Link>
+          <Link
+            className="text-blue-500 visited:text-blue-700"
+            href="/consequencias"
+          >
+            Principais Consequências e Impactos
+          </Link>
         </li>
         <li>
-          <Link href="/recepcao">Recepção e Controvérsia</Link>
+          <Link
+            className="text-blue-500 visited:text-blue-700"
+            href="/recepcao"
+          >
+            Recepção e Controvérsia
+          </Link>
         </li>
       </ul>
     </nav>
