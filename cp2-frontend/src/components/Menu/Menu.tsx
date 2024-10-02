@@ -11,7 +11,7 @@ export default function Menu() {
           <Link href="/teorias">Teorias Principais</Link>
         </li>
         <li>
-          <Link href="/consequencias">Teorias Principais</Link>
+          <Link href="/consequencias">Principais Consequências e Impactos</Link>
         </li>
         <li>
           <Link href="/recepcao">Recepção e Controvérsia</Link>
