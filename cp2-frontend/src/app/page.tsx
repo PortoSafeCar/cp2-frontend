@@ -11,17 +11,11 @@ export default function Home() {
         alt="Imagem da NASA do dia"
       />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odio iure
-        sapiente, eaque sed eius suscipit quod sit molestiae tenetur quis
-        eligendi voluptatum dolore, unde quae minus perferendis doloribus odit,
-        nobis in ea illo amet incidunt. Natus assumenda debitis libero
-        voluptatum! Unde dolore cum, consectetur reiciendis quibusdam culpa,
-        officia tempore quasi, magnam voluptatem facere. Laboriosam, quas
-        magnam? Dignissimos distinctio, tempora dicta ad porro dolores facilis
-        quos ipsam dolore excepturi, minus error tempore perferendis obcaecati
-        nemo deleniti labore ipsa ex expedita nisi ipsum at odit fuga? Et
-        distinctio, fuga, esse totam nam earum debitis veniam impedit, odio
-        obcaecati inventore ipsa quas!
+      Worlds in Collision é uma obra revolucionária escrita pelo psicanalista e cientista russo Immanuel Velikovsky, publicada em 1950. O livro desafia as concepções tradicionais sobre história, astronomia e geologia, propondo uma série de eventos cósmicos que teriam moldado a história da Terra e da humanidade. A premissa central de Velikovsky é que catástrofes de magnitude planetária ocorreram na antiguidade devido a interações violentas entre planetas, principalmente Vênus e Marte, o que teria causado profundas mudanças na Terra.
+
+      </p>
+      <p>
+        
       </p>
     </>
   );
