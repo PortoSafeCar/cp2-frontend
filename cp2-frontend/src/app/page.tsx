@@ -15,7 +15,10 @@ export default function Home() {
 
       </p>
       <p>
-        
+      Worlds in Collision é uma obra que provoca reflexões profundas sobre o nosso entendimento do universo e do passado da Terra. Embora amplamente desacreditada pela ciência convencional, a teoria de Velikovsky sobre catástrofes cósmicas em tempos históricos continua a fascinar leitores e a estimular debates sobre a relação entre mitologia, história e ciência.
+
+O livro se destaca como uma peça importante na literatura que explora eventos cósmicos e suas possíveis implicações na história humana, desafiando as fronteiras entre ciência e especulação.
+
       </p>
     </>
   );
